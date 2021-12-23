@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hey 👋, I'm Mehdi
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/luz-baza-64a366206/">
+  <img align="left" alt="luz adriana  LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/mehdimabrouki">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
