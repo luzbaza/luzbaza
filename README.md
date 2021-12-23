@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Luz Adriana Baza and I'm currently looking for a job as a Software Developer 🚀.Holberton School Student🙍🏽‍♂️.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" src=""/>
 
 **Talking about Personal Stuffs:**
 
