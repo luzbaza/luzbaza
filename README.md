@@ -1,26 +1,19 @@
-- 👋 Hi, I’m @luzbaza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 luzbaza/luzbaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hey 👋, I'm Mehdi
+### Hey 👋, I'm Luz Adriana
 
 <a href="https://www.linkedin.com/in/luz-baza-64a366206/">
   <img align="left" alt="luz adriana  LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
+<a href="https://www.instagram.com/luzabaza99/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
 </a>
 
 <br />
